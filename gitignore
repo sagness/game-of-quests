@@ -1,5 +1,5 @@
 *.meta
 
-Library/
-ProjectSettings/
-Temp/
+"game of quests/Library/"
+"game of quests/ProjectSettings/"
+"game of quests/Temp/"
