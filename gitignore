@@ -1,0 +1,5 @@
+*.meta
+
+/game-of-quests/Library
+/game-of-quests/Temp
+/game-of-quests/ProjectSettings
